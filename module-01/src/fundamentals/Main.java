@@ -1,5 +1,7 @@
 package fundamentals;
 
+import fundamentals.formatting.FormattingDemo;
+import fundamentals.formatting.PlaceholdersDemo;
 import fundamentals.operators.ArithmeticDemo;
 import fundamentals.operators.AssignmentDemo;
 import fundamentals.operators.BitWiseDemo;
@@ -9,6 +11,7 @@ import fundamentals.operators.PrecedenceDemo;
 import fundamentals.operators.RelationalDemo;
 import fundamentals.operators.TernaryDemo;
 import fundamentals.operators.UnaryDemo;
+import fundamentals.variables.VariablesDemo;
 
 public class Main {
     public static void main(String[] args) {
@@ -40,6 +43,15 @@ public class Main {
 
         System.out.println("Unary: ");
         UnaryDemo.run();
+
+        System.out.println("Variables: ");
+        VariablesDemo.run();
+
+        System.out.println("Formatting: ");
+        FormattingDemo.run();
+
+        System.out.println("Placeholder: ");
+        PlaceholdersDemo.run();
 
     }
 }

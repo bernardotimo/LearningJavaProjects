@@ -1,5 +1,6 @@
 package fundamentals;
 
+import fundamentals.casting.PrimitiveDemo;
 import fundamentals.formatting.FormattingDemo;
 import fundamentals.formatting.PlaceholdersDemo;
 import fundamentals.operators.ArithmeticDemo;
@@ -53,5 +54,10 @@ public class Main {
         System.out.println("Placeholder: ");
         PlaceholdersDemo.run();
 
+        System.out.println("Primitive casting:");
+        PrimitiveDemo.run();
+
+
     }
+
 }

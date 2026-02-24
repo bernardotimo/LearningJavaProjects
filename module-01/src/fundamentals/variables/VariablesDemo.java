@@ -21,6 +21,15 @@ public class VariablesDemo {
         //Single character
         char initial = 'B';
 
+        //Byte -128 to 127
+        byte num = 5;
+
+        //Short -32768 to 32767
+        short sqFeet = 3240;
+
+        //Long -2^63 to 2^63
+        long nationalDebt = 3485687456845L;
+
         System.out.println("Age: " + age);
         System.out.println("Heigh: " + height);
         System.out.println("Is user logged in? " + isLoggedIn);

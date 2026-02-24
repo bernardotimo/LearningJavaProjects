@@ -30,6 +30,9 @@ public class VariablesDemo {
         //Long -2^63 to 2^63
         long nationalDebt = 3485687456845L;
 
+        //Float
+        float grade = 5.67f;
+
         System.out.println("Age: " + age);
         System.out.println("Heigh: " + height);
         System.out.println("Is user logged in? " + isLoggedIn);

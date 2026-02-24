@@ -2,7 +2,7 @@ package fundamentals.variables;
 
 public class VariablesDemo {
 
-    public static void run(){
+    public static void main(String[] args){
 
         //A variable is a container that stores a value so the program can use later
 

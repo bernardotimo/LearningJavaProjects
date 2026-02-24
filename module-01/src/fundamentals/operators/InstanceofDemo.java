@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class InstanceofDemo {
 
-    public static void run(){
+    public static void main(String[] args){
 
         //Checks whether an object belongs to a specific class or interface at runtime
         //Always returns boolean

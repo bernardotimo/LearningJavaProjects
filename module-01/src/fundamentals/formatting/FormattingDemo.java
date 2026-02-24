@@ -2,7 +2,7 @@ package fundamentals.formatting;
 
 public class FormattingDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //System.out.printf used when you just want to show output
         //String.format uses when you want to store the formatted text in a variable

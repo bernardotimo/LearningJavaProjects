@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class PrecedenceDemo {
 
-    public static void run(){
+    public static void main(String[] args){
 
        /* Operator Precedence (High → Low)
 

@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class ArithmeticDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         int a = 10;
         int b = 2;

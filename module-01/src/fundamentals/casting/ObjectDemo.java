@@ -2,7 +2,7 @@ package fundamentals.casting;
 
 public class ObjectDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Sometimes Kava only knows a variable as an object
         // Object obj = "java"; - // obj.toUpperCase(); ❌ compile error

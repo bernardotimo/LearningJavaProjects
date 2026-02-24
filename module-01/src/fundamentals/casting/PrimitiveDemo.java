@@ -2,7 +2,7 @@ package fundamentals.casting;
 
 public class PrimitiveDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Widening casting (automatic)
         //Small -> bigger type

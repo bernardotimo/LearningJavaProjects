@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class LogicalDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Used to combine boolean expressions
 

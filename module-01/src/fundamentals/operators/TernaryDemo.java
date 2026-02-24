@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class TernaryDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Compact conditional operator
         //int max = (a > b) ? a : b;

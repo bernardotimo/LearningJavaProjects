@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class RelationalDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Results are always boolean
 

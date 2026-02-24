@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class UnaryDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Unary plus and minus
         int a = 10;

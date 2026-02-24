@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class BitWiseDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         //Work at the binary level
 

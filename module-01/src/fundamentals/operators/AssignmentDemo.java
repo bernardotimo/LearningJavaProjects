@@ -2,7 +2,7 @@ package fundamentals.operators;
 
 public class AssignmentDemo {
 
-    public static void run() {
+    public static void main(String[] args) {
 
         int balance = 1000;
         System.out.println("Initial balance: $" + balance);

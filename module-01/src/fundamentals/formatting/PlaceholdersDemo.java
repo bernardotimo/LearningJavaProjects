@@ -2,7 +2,7 @@ package fundamentals.formatting;
 
 public class PlaceholdersDemo {
 
-    public static void run(){
+    public static void main(String[] args){
 
         /*
         %s    String

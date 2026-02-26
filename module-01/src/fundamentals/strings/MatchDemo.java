@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class MatchDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //Matching - returns true if the regular expression matches the string, and false if not
         String text = "one two three two one";

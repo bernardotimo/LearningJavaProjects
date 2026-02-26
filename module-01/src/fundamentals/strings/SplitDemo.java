@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class SplitDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //splitting strings
         String history = "A man drove his car";

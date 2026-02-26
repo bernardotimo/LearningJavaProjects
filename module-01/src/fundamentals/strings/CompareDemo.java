@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class CompareDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //equals()
         String a = "abc";

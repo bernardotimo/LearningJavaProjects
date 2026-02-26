@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class ReplaceDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //replace() - returns a new string with the given characters replaced
         String password = "123aba";

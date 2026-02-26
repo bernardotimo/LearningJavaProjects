@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class PrefixSuffixDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //startsWith() and endsWith()
         String phrase = "This is a good day to learn";

@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class SubstringsDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //Substring
         String string1 = "Hello World";

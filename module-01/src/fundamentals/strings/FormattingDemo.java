@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class FormattingDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //string formatting
         String input = "Hello %s";

@@ -2,7 +2,7 @@ package fundamentals.strings;
 
 public class ConvertingDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //converting number to string
         String intStr = String.valueOf(10);

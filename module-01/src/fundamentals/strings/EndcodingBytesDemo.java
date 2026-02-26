@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class EndcodingBytesDemo {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         //getting bytes
         String theString = "Code";

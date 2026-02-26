@@ -12,17 +12,5 @@ public class StringsBasicsDemo {
         System.out.println(name);
 
         System.out.println();
-
-        //Length
-        String string = "Hello World";
-        int length = string.length();
-
-        System.out.println(length);
-
-        //CharAt
-        String theString = "This is my string";
-
-        System.out.println(theString.charAt(0));
-        System.out.println(theString.charAt(3));
     }
 }

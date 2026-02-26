@@ -1,4 +1,4 @@
-package fundamentals.strings;
+package fundamentals.methods;
 
 public class MatchDemo {
 

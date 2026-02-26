@@ -4,7 +4,7 @@ public class PrimitiveDemo {
 
     public static void main(String[] args) {
 
-        //Widening casting (automatic)
+        //Implicit (widening) casting (automatic)
         //Small -> bigger type
 
         int a = 10;
@@ -12,7 +12,7 @@ public class PrimitiveDemo {
 
         System.out.println(b); //safe and automatic
 
-        //Narrowing casting (manual)
+        //Explicit (narrowing) casting (manual)
         //Big -> smaller type
 
         double x = 9.8;

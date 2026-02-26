@@ -4,7 +4,7 @@ public class ObjectDemo {
 
     public static void main(String[] args) {
 
-        //Sometimes Kava only knows a variable as an object
+        //Sometimes Java only knows a variable as an object
         // Object obj = "java"; - // obj.toUpperCase(); ❌ compile error
 
         Object obj = "java";
